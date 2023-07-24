@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eb03c38b.css",
+    "main.js": "/static/js/main.d2000cfd.js",
+    "static/js/787.d31280fe.chunk.js": "/static/js/787.d31280fe.chunk.js",
+    "static/media/banner.png": "/static/media/banner.51880fa54324489d34e2.png",
+    "static/media/logo.png": "/static/media/logo.0f4725902211855ce98b.png",
+    "static/media/FondTalisman.png": "/static/media/FondTalisman.ea5621671c787bd9009b.png",
+    "static/media/Talisman4Carre.png": "/static/media/Talisman4Carre.eec386793c65561a9036.png",
+    "static/media/Talisman1Carre.png": "/static/media/Talisman1Carre.d726cdce0e4e1246115c.png",
+    "static/media/Talisman3Carre.png": "/static/media/Talisman3Carre.c78b946b75462e219b58.png",
+    "static/media/Talisman2Carre.png": "/static/media/Talisman2Carre.bca3906ef11031b6872f.png",
+    "static/media/Talisman4.png": "/static/media/Talisman4.a1b44894e34304d62f03.png",
+    "static/media/Talisman1.png": "/static/media/Talisman1.fbe6b3706a765d2f68f1.png",
+    "static/media/Talisman3.png": "/static/media/Talisman3.a7499f6da9ee2a6e5169.png",
+    "static/media/fond.jpg": "/static/media/fond.b65b9eee48edc11b58bf.jpg",
+    "static/media/Talisman2.png": "/static/media/Talisman2.3cf1f633e52005947ebf.png",
+    "static/media/fond-carte.png": "/static/media/fond-carte.0045e141b851ba76dc78.png",
+    "index.html": "/index.html",
+    "main.eb03c38b.css.map": "/static/css/main.eb03c38b.css.map",
+    "main.d2000cfd.js.map": "/static/js/main.d2000cfd.js.map",
+    "787.d31280fe.chunk.js.map": "/static/js/787.d31280fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb03c38b.css",
+    "static/js/main.d2000cfd.js"
+  ]
+}

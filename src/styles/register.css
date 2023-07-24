@@ -1,0 +1,70 @@
+.register {
+    max-width: 500px;
+    margin: auto;
+    height: 100vh;
+    box-sizing: border-box;
+}
+.register p, .register h1, .register h2 {
+    margin: 0px;
+}
+
+.register-wrapper {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    box-sizing: border-box !important;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.register-wrapper form {
+    margin-top: 40px;
+    position: relative;
+}
+.register-wrapper label {
+    text-align: start;
+}
+
+.register-wrapper input[type= 'text'],
+.register-wrapper input[type= 'email'],
+.register-wrapper input[type= 'password']
+ {
+    all : unset;
+    background-color: #F2F2F2 !important;
+    height: 30px;
+    padding-left: 10px;
+    width: calc(100% - 10px);
+    margin-bottom : 10px;
+    transition: 0.5s;
+}
+.register-wrapper input::placeholder {
+    font-size: 16px !important;
+    color: #888888 !important;
+    font-weight: 400;
+}
+
+.login-link-box {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.checkbox-rgpd {
+    margin-top: 20px;
+    text-align: start;
+}
+
+.rgpd-label {
+    display: inline-block;
+    width: 100%;
+}
+
+.legals-link {
+    color: var(--rose);
+    text-decoration: none;
+}
